@@ -19,7 +19,7 @@ const EVENTS = [
   {
     id: 'hackiem',
     name: 'HackIEM 2026',
-    date: '2026-09-26T09:00:00+05:30',
+    date: '2026-11-01T09:00:00+05:30',
     venue: 'AIML Lab, Gurukul Campus',
     category: 'technical',
     description: '24-hour hackathon on applied machine learning. Teams of 2–4. Problem statements released at the opening ceremony; mentors available through the night.'
@@ -27,7 +27,7 @@ const EVENTS = [
   {
     id: 'dl-workshop',
     name: 'Hands-on Deep Learning with PyTorch',
-    date: '2026-10-03T10:00:00+05:30',
+    date: '2026-11-03T10:00:00+05:30',
     venue: 'Lab 4, Ashram Building',
     category: 'workshop',
     description: 'Two-day workshop covering tensors, autograd, CNNs and a small speech-emotion classifier. Bring a laptop; no prior PyTorch experience needed.'
@@ -35,15 +35,15 @@ const EVENTS = [
   {
     id: 'guest-lecture',
     name: 'Guest lecture: Large language models for Indian languages',
-    date: '2026-10-10T14:30:00+05:30',
+    date: '2026-11-10T14:30:00+05:30',
     venue: 'Seminar Hall, 2nd floor',
     category: 'lecture',
     description: 'An industry researcher discusses building and evaluating language models for low-resource Indic languages, followed by an open Q&A.'
   },
   {
     id: 'cultural-night',
-    name: 'Sharod Sandhya — cultural evening',
-    date: '2026-10-16T17:00:00+05:30',
+    name: 'Cultural evening',
+    date: '2026-11-16T17:00:00+05:30',
     venue: 'Main Auditorium',
     category: 'cultural',
     description: 'Pre-Puja cultural evening with music, dance and drama performances by students of the department. Open to families.'
